@@ -16,5 +16,3 @@ sum.o:sum.c
 	gcc -c sum.c
 pal.o:pal.c
 	gcc -c pal.c
-clear:
-	rm -r * .o

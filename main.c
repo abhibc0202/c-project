@@ -3,10 +3,9 @@ main() {
 
          biggest();
          factorial();
-        reverse();
-	palendrome();
-	reverce();
-	sort();
-	sum();
-	febonential();
+         reverse1();
+         pallindrome();
+         sortnum();
+	 sumnum();
+	 febonential();
 }

@@ -1,5 +1,5 @@
  #include <stdio.h>
-    void sort()
+    void sortnum()
     {
  
         int i, j, a, n, number[30];

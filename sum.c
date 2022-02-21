@@ -1,5 +1,5 @@
 #include <stdio.h>
-sum() {    
+sumnum() {    
 
     int number1, number2, sum;
     
