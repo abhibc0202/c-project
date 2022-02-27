@@ -14,7 +14,7 @@ febonential()
     result = febonential(value);
 
     /* Display the result of the calculation */
-    printf("The Exponential of %f is %f\n", value, result);
+    printf("The exponential of %f is %f\n", value, result);
 
    // return 0;
 }
